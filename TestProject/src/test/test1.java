@@ -28,8 +28,8 @@ public class test1
 					}
 				else if(sg != sng) 
 					 {
-							FileWriter fwriter1= new FileWriter(file);
-							 bw =new BufferedWriter(fwriter1);
+						FileWriter fwriter1= new FileWriter(file);
+						bw =new BufferedWriter(fwriter1);
 					 }
 			  }
 		if (!file.exists())
