@@ -9,4 +9,4 @@ File is already present in the directory so console asks user to add (or) overwr
 
 3. Enter the file name that is not present in the directory & Enter data
 
-File is created. User entered data is written inside file.
+File is created. User entered data is written inside the file.
