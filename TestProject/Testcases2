@@ -1,0 +1,20 @@
+1. Enter the file name that is already present in the directory 
+& Enter add & Enter before & Enter data
+
+File is already present in the directory so console asks user to 
+add (or) overwrite. User entered add, now console asks user 
+ before (or) later, user entered before so now user entered data 
+ is added before the existing data.
+
+2. Enter the file name that is already present in the directory 
+& Enter add & Enter after & Enter data
+
+File is already present in the directory so console asks user to 
+add (or) overwrite. User entered add, now console asks user
+ before (or) later, user entered later so now user entered data
+  is added below to the existing data.
+
+3. Enter the file name that is not present in the directory
+ & Enter data
+ 
+File is created. User entered data is written inside file.
