@@ -1,0 +1,11 @@
+• Enter a text file directory of text file, which contains only characters (without space)  
+		•Tell user number of characters, number of vowels, and no words in the file. 
+		 
+• Enter a text file directory of text file, which contains Paragraph
+		• Tell user number of lines, number of characters, number of vowels, and longest word in the file. 
+
+• Enter a text file directory of text file, which has no vowels
+		• Tell user number of lines, number of characters; longest word in the file and no vowels in the file
+		
+• Enter a text file directory of text file, which contains only numeric
+		• Tell user number of lines, number of characters, and no vowels in the file.
