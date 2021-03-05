@@ -1,0 +1,10 @@
+
+• Enter a text file directory that is exists  
+		•Calculate number of lines, number of characters, count of vowels, 
+		 and longest word in the file. 
+		 
+• Enter a text file directory that is not exists
+		•File is not present in the directory.
+		
+• Enter a text file directory of empty text file
+		•No data in the file.
